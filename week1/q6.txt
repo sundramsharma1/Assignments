@@ -1,0 +1,12 @@
+// How many of these can be a variable name ?
+
+
+01Pwskills = cannot start with numeric (wrong)
+
+_FLOAT     = keyword is float not FLOAT and it is start with _ (Right)
+
+int        = it is a keyword and keyword is not allowed at varibale name (Wrong)
+
+FLOAT      = keyword is float not FLOAT (Right)
+
+You will succeed = variable name cannot have white spaces (Wrong)
